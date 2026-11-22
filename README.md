@@ -2,13 +2,16 @@
 
 Static market data for the *Back In Time To Be Rich* iOS app. The app downloads
 `data_manifest.json` plus the files it lists and computes trades on device. A GitHub
-Action refreshes the data daily and commits it; GitHub Pages serves `docs/`.
+Action refreshes the data daily (22:30 UTC) and commits it; the app reads `docs/` straight
+from GitHub's raw file host, with jsDelivr as a mirror.
 
 ## Base URLs
 
-- Pages: `https://yifan024.github.io/BackInTimeToBeRich-data/`
-- Mirror: `https://raw.githubusercontent.com/yifan024/BackInTimeToBeRich-data/main/docs/`
-- Mirror: `https://cdn.jsdelivr.net/gh/yifan024/BackInTimeToBeRich-data@main/docs/`
+- Primary: `https://raw.githubusercontent.com/yifan024/BackInTimeToBeRich-data/main/docs/` (5-minute cache, ETag)
+- Mirror: `https://cdn.jsdelivr.net/gh/yifan024/BackInTimeToBeRich-data@main/docs/` (CDN, may lag up to ~12 h)
+
+GitHub Pages is not used: this account's user site has a custom domain, which redirects
+project Pages sites away from GitHub.
 
 ## Layout
 
