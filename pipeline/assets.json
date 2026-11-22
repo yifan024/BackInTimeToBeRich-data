@@ -1,0 +1,247 @@
+{
+  "assets": [
+    {
+      "id": "BTC",
+      "yahoo": "BTC-USD",
+      "category": "crypto",
+      "region": "us",
+      "name": "Bitcoin",
+      "currency": "USD",
+      "shortable": true
+    },
+    {
+      "id": "ETH",
+      "yahoo": "ETH-USD",
+      "category": "crypto",
+      "region": "us",
+      "name": "Ethereum",
+      "currency": "USD",
+      "shortable": true
+    },
+    {
+      "id": "000002.SZ",
+      "yahoo": "000002.SZ",
+      "category": "stocks",
+      "region": "cn",
+      "name": "万科A",
+      "currency": "CNY",
+      "shortable": false
+    },
+    {
+      "id": "000538.SZ",
+      "yahoo": "000538.SZ",
+      "category": "stocks",
+      "region": "cn",
+      "name": "云南白药",
+      "currency": "CNY",
+      "shortable": false
+    },
+    {
+      "id": "000568.SZ",
+      "yahoo": "000568.SZ",
+      "category": "stocks",
+      "region": "cn",
+      "name": "泸州老窖",
+      "currency": "CNY",
+      "shortable": false
+    },
+    {
+      "id": "000651.SZ",
+      "yahoo": "000651.SZ",
+      "category": "stocks",
+      "region": "cn",
+      "name": "格力电器",
+      "currency": "CNY",
+      "shortable": false
+    },
+    {
+      "id": "002032.SZ",
+      "yahoo": "002032.SZ",
+      "category": "stocks",
+      "region": "cn",
+      "name": "苏泊尔",
+      "currency": "CNY",
+      "shortable": false
+    },
+    {
+      "id": "002223.SZ",
+      "yahoo": "002223.SZ",
+      "category": "stocks",
+      "region": "cn",
+      "name": "鱼跃医疗",
+      "currency": "CNY",
+      "shortable": false
+    },
+    {
+      "id": "002230.SZ",
+      "yahoo": "002230.SZ",
+      "category": "stocks",
+      "region": "cn",
+      "name": "科大讯飞",
+      "currency": "CNY",
+      "shortable": false
+    },
+    {
+      "id": "002236.SZ",
+      "yahoo": "002236.SZ",
+      "category": "stocks",
+      "region": "cn",
+      "name": "大华股份",
+      "currency": "CNY",
+      "shortable": false
+    },
+    {
+      "id": "002271.SZ",
+      "yahoo": "002271.SZ",
+      "category": "stocks",
+      "region": "cn",
+      "name": "东方雨虹",
+      "currency": "CNY",
+      "shortable": false
+    },
+    {
+      "id": "002591.SZ",
+      "yahoo": "002591.SZ",
+      "category": "stocks",
+      "region": "cn",
+      "name": "恒大高新",
+      "currency": "CNY",
+      "shortable": false
+    },
+    {
+      "id": "600276.SS",
+      "yahoo": "600276.SS",
+      "category": "stocks",
+      "region": "cn",
+      "name": "恒瑞医药",
+      "currency": "CNY",
+      "shortable": false
+    },
+    {
+      "id": "600309.SS",
+      "yahoo": "600309.SS",
+      "category": "stocks",
+      "region": "cn",
+      "name": "万华化学",
+      "currency": "CNY",
+      "shortable": false
+    },
+    {
+      "id": "600340.SS",
+      "yahoo": "600340.SS",
+      "category": "stocks",
+      "region": "cn",
+      "name": "华夏幸福",
+      "currency": "CNY",
+      "shortable": false
+    },
+    {
+      "id": "600519.SS",
+      "yahoo": "600519.SS",
+      "category": "stocks",
+      "region": "cn",
+      "name": "贵州茅台",
+      "currency": "CNY",
+      "shortable": false
+    },
+    {
+      "id": "600570.SS",
+      "yahoo": "600570.SS",
+      "category": "stocks",
+      "region": "cn",
+      "name": "恒生电子",
+      "currency": "CNY",
+      "shortable": false
+    },
+    {
+      "id": "600660.SS",
+      "yahoo": "600660.SS",
+      "category": "stocks",
+      "region": "cn",
+      "name": "福耀玻璃",
+      "currency": "CNY",
+      "shortable": false
+    },
+    {
+      "id": "600741.SS",
+      "yahoo": "600741.SS",
+      "category": "stocks",
+      "region": "cn",
+      "name": "华域汽车",
+      "currency": "CNY",
+      "shortable": false
+    },
+    {
+      "id": "600887.SS",
+      "yahoo": "600887.SS",
+      "category": "stocks",
+      "region": "cn",
+      "name": "伊利股份",
+      "currency": "CNY",
+      "shortable": false
+    },
+    {
+      "id": "AAPL",
+      "yahoo": "AAPL",
+      "category": "stocks",
+      "region": "us",
+      "name": "Apple Inc.",
+      "currency": "USD",
+      "shortable": true
+    },
+    {
+      "id": "AMZN",
+      "yahoo": "AMZN",
+      "category": "stocks",
+      "region": "us",
+      "name": "Amazon.com Inc.",
+      "currency": "USD",
+      "shortable": true
+    },
+    {
+      "id": "GOOGL",
+      "yahoo": "GOOGL",
+      "category": "stocks",
+      "region": "us",
+      "name": "Alphabet Inc.",
+      "currency": "USD",
+      "shortable": true
+    },
+    {
+      "id": "META",
+      "yahoo": "META",
+      "category": "stocks",
+      "region": "us",
+      "name": "Meta Platforms Inc.",
+      "currency": "USD",
+      "shortable": true
+    },
+    {
+      "id": "MSFT",
+      "yahoo": "MSFT",
+      "category": "stocks",
+      "region": "us",
+      "name": "Microsoft Corporation",
+      "currency": "USD",
+      "shortable": true
+    },
+    {
+      "id": "NVDA",
+      "yahoo": "NVDA",
+      "category": "stocks",
+      "region": "us",
+      "name": "NVIDIA Corporation",
+      "currency": "USD",
+      "shortable": true
+    },
+    {
+      "id": "TSLA",
+      "yahoo": "TSLA",
+      "category": "stocks",
+      "region": "us",
+      "name": "Tesla Inc.",
+      "currency": "USD",
+      "shortable": true
+    }
+  ]
+}

@@ -1,0 +1,576 @@
+{
+  "schemaVersion": 3,
+  "generatedAt": "2026-11-21T00:00:00Z",
+  "dataThrough": "2026-08-10",
+  "assets": [
+    {
+      "id": "BTC",
+      "category": "crypto",
+      "region": "us",
+      "name": "Bitcoin",
+      "currency": "USD",
+      "shortable": true,
+      "files": [
+        {
+          "path": "prices/BTC.hist.csv",
+          "sha256": "a4963f8a5f59f571fc8c18bdea49a50c720df7ef94754eb3d185a16d5e20c2c7",
+          "bytes": 77558
+        },
+        {
+          "path": "prices/BTC.2026.csv",
+          "sha256": "1cdc8e7ed68f28a8d0d8005efa5590c056a18bcc85afa6bbdce1c347b0bdfc42",
+          "bytes": 4191
+        }
+      ]
+    },
+    {
+      "id": "ETH",
+      "category": "crypto",
+      "region": "us",
+      "name": "Ethereum",
+      "currency": "USD",
+      "shortable": true,
+      "files": [
+        {
+          "path": "prices/ETH.hist.csv",
+          "sha256": "42975539155ca4dbdb71ef8b02dec0e56486351f6fb57acf414f28d05118158d",
+          "bytes": 56175
+        },
+        {
+          "path": "prices/ETH.2026.csv",
+          "sha256": "3403ce07b146eb1411a8e93e34068653d337f8322d253ac52b525e2a77dd7b76",
+          "bytes": 4203
+        }
+      ]
+    },
+    {
+      "id": "000002.SZ",
+      "category": "stocks",
+      "region": "cn",
+      "name": "万科A",
+      "currency": "CNY",
+      "shortable": false,
+      "files": [
+        {
+          "path": "prices/000002.SZ.hist.csv",
+          "sha256": "f5964d64428522407300e172cc3ffa238405108c25b1405bb8af2f38e44eb47a",
+          "bytes": 121136
+        },
+        {
+          "path": "prices/000002.SZ.2026.csv",
+          "sha256": "6fc72d336a8230ee99844adb44dc777e071089be167d14644be6c15bcb3d86ce",
+          "bytes": 2313
+        }
+      ]
+    },
+    {
+      "id": "000538.SZ",
+      "category": "stocks",
+      "region": "cn",
+      "name": "云南白药",
+      "currency": "CNY",
+      "shortable": false,
+      "files": [
+        {
+          "path": "prices/000538.SZ.hist.csv",
+          "sha256": "f39a0cc899656b9a602aadec964fe5d9eb81197f6102daaaf6475d6ac8929e75",
+          "bytes": 121309
+        },
+        {
+          "path": "prices/000538.SZ.2026.csv",
+          "sha256": "b3553ce2145cfc70b5f9c7fd876e0c9dd6b16f4058b477394d4240510456b11b",
+          "bytes": 2599
+        }
+      ]
+    },
+    {
+      "id": "000568.SZ",
+      "category": "stocks",
+      "region": "cn",
+      "name": "泸州老窖",
+      "currency": "CNY",
+      "shortable": false,
+      "files": [
+        {
+          "path": "prices/000568.SZ.hist.csv",
+          "sha256": "1b5d971b3df50440f341c837f4d083ae87575490da33ce12235cc94a55d4c414",
+          "bytes": 121437
+        },
+        {
+          "path": "prices/000568.SZ.2026.csv",
+          "sha256": "21eeeaed10cf02d2bac35b9f21704eccf25e8cc392b604572ff3b905960dcdab",
+          "bytes": 2529
+        }
+      ]
+    },
+    {
+      "id": "000651.SZ",
+      "category": "stocks",
+      "region": "cn",
+      "name": "格力电器",
+      "currency": "CNY",
+      "shortable": false,
+      "files": [
+        {
+          "path": "prices/000651.SZ.hist.csv",
+          "sha256": "4648bc27c025ec02f7f4261862aa97568e1b49cbb8d89696af4964d143307567",
+          "bytes": 123213
+        },
+        {
+          "path": "prices/000651.SZ.2026.csv",
+          "sha256": "961da5c6e71d10f575679a5fbc37bb1d11986115e4a314a4800b00c902d6477d",
+          "bytes": 2474
+        }
+      ]
+    },
+    {
+      "id": "002032.SZ",
+      "category": "stocks",
+      "region": "cn",
+      "name": "苏泊尔",
+      "currency": "CNY",
+      "shortable": false,
+      "files": [
+        {
+          "path": "prices/002032.SZ.hist.csv",
+          "sha256": "5c8f6bf8cbad678d23abe019be6fc638710e7007f6abd81a2b17cb172fafe74b",
+          "bytes": 98786
+        },
+        {
+          "path": "prices/002032.SZ.2026.csv",
+          "sha256": "f5fabef9f06c41f90386b29cbfa2cb30d0c958d01afe1df3df1e4cc69e66b6d5",
+          "bytes": 2643
+        }
+      ]
+    },
+    {
+      "id": "002223.SZ",
+      "category": "stocks",
+      "region": "cn",
+      "name": "鱼跃医疗",
+      "currency": "CNY",
+      "shortable": false,
+      "files": [
+        {
+          "path": "prices/002223.SZ.hist.csv",
+          "sha256": "0c0145934be075e377c372ab62d67758739f0e020bc7fd31730a278d9451f618",
+          "bytes": 81298
+        },
+        {
+          "path": "prices/002223.SZ.2026.csv",
+          "sha256": "21f16c471f48a2c796d25cca636bbf9eddb17fa91693e874a44b41a6a4a43cc3",
+          "bytes": 2637
+        }
+      ]
+    },
+    {
+      "id": "002230.SZ",
+      "category": "stocks",
+      "region": "cn",
+      "name": "科大讯飞",
+      "currency": "CNY",
+      "shortable": false,
+      "files": [
+        {
+          "path": "prices/002230.SZ.hist.csv",
+          "sha256": "812296c523f23e396b153626c6e35391f4162a2e797991d94249b44c20dac41c",
+          "bytes": 81194
+        },
+        {
+          "path": "prices/002230.SZ.2026.csv",
+          "sha256": "a41fb144252133eb37ff36e0ec376795dcfb919326d6defe3c89f8541122f057",
+          "bytes": 2706
+        }
+      ]
+    },
+    {
+      "id": "002236.SZ",
+      "category": "stocks",
+      "region": "cn",
+      "name": "大华股份",
+      "currency": "CNY",
+      "shortable": false,
+      "files": [
+        {
+          "path": "prices/002236.SZ.hist.csv",
+          "sha256": "49eb7c0d4cbc524822ff2bff722d7a405b1ebc29dc42af1c3527eef75a14fae0",
+          "bytes": 81454
+        },
+        {
+          "path": "prices/002236.SZ.2026.csv",
+          "sha256": "f25e114e859e99315133d5b08edfc3ce8b0897d2f82dbc677d9700e1123857c8",
+          "bytes": 2636
+        }
+      ]
+    },
+    {
+      "id": "002271.SZ",
+      "category": "stocks",
+      "region": "cn",
+      "name": "东方雨虹",
+      "currency": "CNY",
+      "shortable": false,
+      "files": [
+        {
+          "path": "prices/002271.SZ.hist.csv",
+          "sha256": "7152a83f2e01164095ff346cb8b65507d4a47c7596e85f410c5c56c36b21cc67",
+          "bytes": 79647
+        },
+        {
+          "path": "prices/002271.SZ.2026.csv",
+          "sha256": "09bd0801bf1bdcd605018b7949e77153153eec4baa9bd366da61e0fe0e2ec334",
+          "bytes": 2455
+        }
+      ]
+    },
+    {
+      "id": "002591.SZ",
+      "category": "stocks",
+      "region": "cn",
+      "name": "恒大高新",
+      "currency": "CNY",
+      "shortable": false,
+      "files": [
+        {
+          "path": "prices/002591.SZ.hist.csv",
+          "sha256": "0dfe6803858e3bf86c725ba7c73952885a0e5e53616e42ab021da88bcc11d5af",
+          "bytes": 61117
+        },
+        {
+          "path": "prices/002591.SZ.2026.csv",
+          "sha256": "807e0fc35088c57c77e9163ad7b67461bb1f9809ebd028dd6db17f241545867f",
+          "bytes": 2312
+        }
+      ]
+    },
+    {
+      "id": "600276.SS",
+      "category": "stocks",
+      "region": "cn",
+      "name": "恒瑞医药",
+      "currency": "CNY",
+      "shortable": false,
+      "files": [
+        {
+          "path": "prices/600276.SS.hist.csv",
+          "sha256": "deca9e88dbb684ceca5dd94bb0e854c80e4eb1b0e8fdb5da1be9b9147cca3b79",
+          "bytes": 119034
+        },
+        {
+          "path": "prices/600276.SS.2026.csv",
+          "sha256": "888d40f6f15e34c13d405e4debfa76778c4f4feb141ea496044ad678a236f74a",
+          "bytes": 2636
+        }
+      ]
+    },
+    {
+      "id": "600309.SS",
+      "category": "stocks",
+      "region": "cn",
+      "name": "万华化学",
+      "currency": "CNY",
+      "shortable": false,
+      "files": [
+        {
+          "path": "prices/600309.SS.hist.csv",
+          "sha256": "ccefc4f575286cc3a7815d3a09ce6f1297cb5ff1b1d7c9c12da34a89129fef6a",
+          "bytes": 116538
+        },
+        {
+          "path": "prices/600309.SS.2026.csv",
+          "sha256": "494f9efaba0254b43f32ee48a33cc5eeba6e38fcc69f9a998b508c350301a72e",
+          "bytes": 2636
+        }
+      ]
+    },
+    {
+      "id": "600340.SS",
+      "category": "stocks",
+      "region": "cn",
+      "name": "华夏幸福",
+      "currency": "CNY",
+      "shortable": false,
+      "files": [
+        {
+          "path": "prices/600340.SS.hist.csv",
+          "sha256": "6816b5b9f86e4500bb50884d5ba8a67a268b0f3c634d95337faafeb1cefaae9a",
+          "bytes": 99604
+        },
+        {
+          "path": "prices/600340.SS.2026.csv",
+          "sha256": "a60acf178b08d177d98f8d18dfe0f0c84338a2e06c2612e881f205056295d240",
+          "bytes": 2321
+        }
+      ]
+    },
+    {
+      "id": "600519.SS",
+      "category": "stocks",
+      "region": "cn",
+      "name": "贵州茅台",
+      "currency": "CNY",
+      "shortable": false,
+      "files": [
+        {
+          "path": "prices/600519.SS.hist.csv",
+          "sha256": "f7f87e3a3031ff26b4fa71b493f284d73aba275241edf075bd3e5f71629102ba",
+          "bytes": 113221
+        },
+        {
+          "path": "prices/600519.SS.2026.csv",
+          "sha256": "845840b6f15f19dcd2b5df22817b80e32d17a8d51ab0fdc49ae9c9e5d5cf709e",
+          "bytes": 2735
+        }
+      ]
+    },
+    {
+      "id": "600570.SS",
+      "category": "stocks",
+      "region": "cn",
+      "name": "恒生电子",
+      "currency": "CNY",
+      "shortable": false,
+      "files": [
+        {
+          "path": "prices/600570.SS.hist.csv",
+          "sha256": "2961e46d55f620f4e0bcc4a72774bd0a3e85c67541d3baaf338f3521f095ccf4",
+          "bytes": 102701
+        },
+        {
+          "path": "prices/600570.SS.2026.csv",
+          "sha256": "98c7ae7d1e79deedef4f67e12c07531cb07b578731e1b8288c0d339d7d7c8e9b",
+          "bytes": 2664
+        }
+      ]
+    },
+    {
+      "id": "600660.SS",
+      "category": "stocks",
+      "region": "cn",
+      "name": "福耀玻璃",
+      "currency": "CNY",
+      "shortable": false,
+      "files": [
+        {
+          "path": "prices/600660.SS.hist.csv",
+          "sha256": "d046cf6052175b22e3a3a3d4e6ba417691cbfffe8806387d0a4cebeb6f43e7c9",
+          "bytes": 121452
+        },
+        {
+          "path": "prices/600660.SS.2026.csv",
+          "sha256": "c94bb51e9877a6b208b9a1878602fc34bc8ef5a00619e86af0692f784af6c80e",
+          "bytes": 2610
+        }
+      ]
+    },
+    {
+      "id": "600741.SS",
+      "category": "stocks",
+      "region": "cn",
+      "name": "华域汽车",
+      "currency": "CNY",
+      "shortable": false,
+      "files": [
+        {
+          "path": "prices/600741.SS.hist.csv",
+          "sha256": "3aaa6ee7ee0923431a3856acb172ab925c5adc5a951f64f4617c4ef40023041a",
+          "bytes": 122508
+        },
+        {
+          "path": "prices/600741.SS.2026.csv",
+          "sha256": "ce04855c3cf49a51f057e2ef8ce8e63b80cddc75b727435c6959246b3ddaafc1",
+          "bytes": 2726
+        }
+      ]
+    },
+    {
+      "id": "600887.SS",
+      "category": "stocks",
+      "region": "cn",
+      "name": "伊利股份",
+      "currency": "CNY",
+      "shortable": false,
+      "files": [
+        {
+          "path": "prices/600887.SS.hist.csv",
+          "sha256": "8f522b2520cefb061769ff24a640d8ff55860a69cc416b08236a9b5280abc58a",
+          "bytes": 122486
+        },
+        {
+          "path": "prices/600887.SS.2026.csv",
+          "sha256": "7c35fe8f285636782d83269d934fb944a03e9cfa72a060a03ff625e0f3398729",
+          "bytes": 2651
+        }
+      ]
+    },
+    {
+      "id": "AAPL",
+      "category": "stocks",
+      "region": "us",
+      "name": "Apple Inc.",
+      "currency": "USD",
+      "shortable": true,
+      "files": [
+        {
+          "path": "prices/AAPL.hist.csv",
+          "sha256": "681b29fdcc0496373473e6ad965716e27b96de5d651af28b4fe549d7cc49309d",
+          "bytes": 124793
+        },
+        {
+          "path": "prices/AAPL.2026.csv",
+          "sha256": "0299ef9650a896f664736c926027c121f469e6e67d234cbaba5960008ea71f9c",
+          "bytes": 2761
+        }
+      ]
+    },
+    {
+      "id": "AMZN",
+      "category": "stocks",
+      "region": "us",
+      "name": "Amazon.com Inc.",
+      "currency": "USD",
+      "shortable": true,
+      "files": [
+        {
+          "path": "prices/AMZN.hist.csv",
+          "sha256": "c49dcc6b4349319419b431ea861f57f77110636eb653339e4f74fca7b0558e5a",
+          "bytes": 117432
+        },
+        {
+          "path": "prices/AMZN.2026.csv",
+          "sha256": "76434fb6e64bcab78c76952fd81cf41500d30679ce040999e017b19ced956cd5",
+          "bytes": 2703
+        }
+      ]
+    },
+    {
+      "id": "GOOGL",
+      "category": "stocks",
+      "region": "us",
+      "name": "Alphabet Inc.",
+      "currency": "USD",
+      "shortable": true,
+      "files": [
+        {
+          "path": "prices/GOOGL.hist.csv",
+          "sha256": "b27f419929b2aa31571334b42ac4c9f92016d64ecaacb7ce9b6f00af773a87e3",
+          "bytes": 101574
+        },
+        {
+          "path": "prices/GOOGL.2026.csv",
+          "sha256": "6d394dba02b1f0325a0a2cfd114afdd36873120eb5728ac868500a4cdb8cd9f9",
+          "bytes": 2803
+        }
+      ]
+    },
+    {
+      "id": "META",
+      "category": "stocks",
+      "region": "us",
+      "name": "Meta Platforms Inc.",
+      "currency": "USD",
+      "shortable": true,
+      "files": [
+        {
+          "path": "prices/META.hist.csv",
+          "sha256": "c0534dd682e5d246a67c9d96b68db9887c5b7a2760c53d295179952d50efcf15",
+          "bytes": 64624
+        },
+        {
+          "path": "prices/META.2026.csv",
+          "sha256": "74039ac692c4e81e6998c53040f5545d490e14de9750522ae6826468adb820e5",
+          "bytes": 2808
+        }
+      ]
+    },
+    {
+      "id": "MSFT",
+      "category": "stocks",
+      "region": "us",
+      "name": "Microsoft Corporation",
+      "currency": "USD",
+      "shortable": true,
+      "files": [
+        {
+          "path": "prices/MSFT.hist.csv",
+          "sha256": "4da3f314871d6a2c4ca7eaf948672adfde5a4338231389857fc44de2b0b97416",
+          "bytes": 123535
+        },
+        {
+          "path": "prices/MSFT.2026.csv",
+          "sha256": "5dded3c166b22d17f4fb6704eba3dbe37aa5b47cb65207ef4b26d29c2e3e4937",
+          "bytes": 2775
+        }
+      ]
+    },
+    {
+      "id": "NVDA",
+      "category": "stocks",
+      "region": "us",
+      "name": "NVIDIA Corporation",
+      "currency": "USD",
+      "shortable": true,
+      "files": [
+        {
+          "path": "prices/NVDA.hist.csv",
+          "sha256": "37169ec52db87d7d4be58a3d5f756356e44ba16abea1c1f79200e614684afe53",
+          "bytes": 127799
+        },
+        {
+          "path": "prices/NVDA.2026.csv",
+          "sha256": "81d65e2593220ad59c73809f2ae9383057bd8c8a1c895782612c665611ec4086",
+          "bytes": 2752
+        }
+      ]
+    },
+    {
+      "id": "TSLA",
+      "category": "stocks",
+      "region": "us",
+      "name": "Tesla Inc.",
+      "currency": "USD",
+      "shortable": true,
+      "files": [
+        {
+          "path": "prices/TSLA.hist.csv",
+          "sha256": "36354c54ea621d58478428765b2936078d1fabc32cdffbcdd02682d74fa0a34c",
+          "bytes": 71604
+        },
+        {
+          "path": "prices/TSLA.2026.csv",
+          "sha256": "904395602e056e87b41383fb730ca6b26c590fe8177b0a238a2d1de5f7b3dc76",
+          "bytes": 2703
+        }
+      ]
+    }
+  ],
+  "lottery": [
+    {
+      "id": "powerball",
+      "region": "us",
+      "file": {
+        "path": "lottery/powerball.csv",
+        "sha256": "8469b0b099650d044c776b6b37f68a2bf67fbf8290ea60b0dd62982581204186",
+        "bytes": 13304
+      }
+    },
+    {
+      "id": "megamillions",
+      "region": "us",
+      "file": {
+        "path": "lottery/megamillions.csv",
+        "sha256": "355c1f7c6d5e0933a06a46e764990099070c2993bcdf178401a5bbbf02b736ad",
+        "bytes": 12679
+      }
+    },
+    {
+      "id": "shuangseqiu",
+      "region": "cn",
+      "file": {
+        "path": "lottery/shuangseqiu.csv",
+        "sha256": "4c2bce3544797afc4b780100eb402f6bc74687d4dabc630e1a817d051949f08a",
+        "bytes": 196819
+      }
+    }
+  ]
+}
