@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-11-27T04:22:31Z",
-  "dataThrough": "2026-11-27",
+  "generatedAt": "2026-11-28T04:02:40Z",
+  "dataThrough": "2026-11-28",
   "assets": [
     {
       "id": "BTC",
@@ -18,8 +18,8 @@
         },
         {
           "path": "prices/BTC.2026.csv",
-          "sha256": "dd1ea8c7757a2de75383e5feadc0c8673737db67e3cc7eb60de3fc7c32fe29fe",
-          "bytes": 6221
+          "sha256": "7c0e2438ab786c29ab2d8751be6a5548656edfd962b8d2469f80ab5aedaf4285",
+          "bytes": 6240
         }
       ]
     },
@@ -38,8 +38,8 @@
         },
         {
           "path": "prices/ETH.2026.csv",
-          "sha256": "18bc3be1b62118f32a3796ff3acab73742b826acf053b9029b90ae11fa97d52c",
-          "bytes": 6241
+          "sha256": "e4d7d7ef9bde8dd3b8755c750c19e2f3596b4a410c94db86b96ae300360ebf17",
+          "bytes": 6261
         }
       ]
     },
@@ -58,7 +58,7 @@
         },
         {
           "path": "prices/000002.SZ.2026.csv",
-          "sha256": "b04873b5f401de3d22b9645b2edf2af2df8ecaefbd40963aa752e9c9df579dfc",
+          "sha256": "34838199230547b40766a56eb18e23eca7679c8d0f7e3b1824ca864766319b44",
           "bytes": 3473
         }
       ]
@@ -78,8 +78,8 @@
         },
         {
           "path": "prices/000538.SZ.2026.csv",
-          "sha256": "932a210e120adb3be1a7242388d36a6ceb61e9e7b1bf3b50da1e588f3e675bf2",
-          "bytes": 3654
+          "sha256": "08f50c8fda4c7c38e6468594f15e3dff8f5db6d57fee457205710fd0acf356bb",
+          "bytes": 3653
         }
       ]
     },
@@ -98,7 +98,7 @@
         },
         {
           "path": "prices/000568.SZ.2026.csv",
-          "sha256": "89ef8d91e62bfb1162baf6da38b43af1bc7e95e6cd16e867707e1d9bc7bdfc0d",
+          "sha256": "4fb5ff44eae70575755a4924d48b05695b357eb79ea45fc452685303e5be867d",
           "bytes": 3724
         }
       ]
@@ -118,7 +118,7 @@
         },
         {
           "path": "prices/000651.SZ.2026.csv",
-          "sha256": "e281e665a14920d4bc7a54c7802c81d0a8afeba4313c23f3f81f261c327fabbe",
+          "sha256": "1ba50418de8b81a714e4084e569ea33d77c361125a5b037b1fe9e52cd2f74732",
           "bytes": 3672
         }
       ]
@@ -138,7 +138,7 @@
         },
         {
           "path": "prices/002032.SZ.2026.csv",
-          "sha256": "d083ce180fcc9affc79dd8b4b43740a57c8c62c8101c8d39d22e03b62753d055",
+          "sha256": "7e442118e3a11436c1fe07541145ba976b0f71c57856a1c7b2012142c492f3cf",
           "bytes": 3673
         }
       ]
@@ -158,7 +158,7 @@
         },
         {
           "path": "prices/002223.SZ.2026.csv",
-          "sha256": "993139e988971e4313a5773e752f1988a3a50389529fc0d1b6bda2f9b793f54a",
+          "sha256": "70e345e9c60fccd86e79a77bcb488b04f0e115831793b88ffe883215ea53e3a4",
           "bytes": 3666
         }
       ]
@@ -178,7 +178,7 @@
         },
         {
           "path": "prices/002230.SZ.2026.csv",
-          "sha256": "352a0c8b6656b6264ce53bf4b57c2b70ad888c8f2ca7f7b2764dbfd816057514",
+          "sha256": "b31e9c6c0bb47a8b1471aec541a2051d2ee1d06cd749578bb2fac2313a4b05bb",
           "bytes": 3670
         }
       ]
@@ -198,7 +198,7 @@
         },
         {
           "path": "prices/002236.SZ.2026.csv",
-          "sha256": "5e9a6db3ec288f0f296cba1c9aee838139882b1386cc10aad9620749ac2ac7da",
+          "sha256": "dc17a7c73f759a98a0cfb4f40aa73e3faf4cfb92dd6a7fc7ab280162a568f4a1",
           "bytes": 3691
         }
       ]
@@ -218,8 +218,8 @@
         },
         {
           "path": "prices/002271.SZ.2026.csv",
-          "sha256": "efb64fc26f397c277fb99b1611fa5d867efc6dd483d34442873dc7c833888b36",
-          "bytes": 3680
+          "sha256": "55d200093685eed31b17fb57db98c4ff1cbd96d63e2668742fc75b441c20f3be",
+          "bytes": 3679
         }
       ]
     },
@@ -238,8 +238,8 @@
         },
         {
           "path": "prices/002591.SZ.2026.csv",
-          "sha256": "614714995a5e56a79b177fa3437cdc2a0eb8e79c2bc19a7af7c112e2c5c760a8",
-          "bytes": 3473
+          "sha256": "42e2abd20524b6f5065c60ac0581eb6a3e64e96f42746bc46846b197a5b20815",
+          "bytes": 3472
         }
       ]
     },
@@ -258,7 +258,7 @@
         },
         {
           "path": "prices/600276.SS.2026.csv",
-          "sha256": "cf75aa38b49baafbf15ecb6b503742fcb976d03509becd6bf81b2670197ec9c7",
+          "sha256": "fc0ac841b9763f59bed79b5483e8825b389cbf859c358aba44b2c633cd48be9e",
           "bytes": 3679
         }
       ]
@@ -278,8 +278,8 @@
         },
         {
           "path": "prices/600309.SS.2026.csv",
-          "sha256": "895f64fe8a02c5e8b452241aea005a248d8f675a67ac6860e5ca33cbebc780e7",
-          "bytes": 3655
+          "sha256": "b622a5643037a6f9c01a0b087511b07e8bf819f0b55351c2f85386c31342fd74",
+          "bytes": 3656
         }
       ]
     },
@@ -298,7 +298,7 @@
         },
         {
           "path": "prices/600340.SS.2026.csv",
-          "sha256": "e8c6974652e4047f13f9ff3885efde863cc52a3236574513c952d591ffaacd55",
+          "sha256": "2e29f841953345497ca04cbc3a45f9a4cc0a501adee59fc488e1a30d2c41ddaf",
           "bytes": 3481
         }
       ]
@@ -318,7 +318,7 @@
         },
         {
           "path": "prices/600519.SS.2026.csv",
-          "sha256": "a227d934c697f88c48d1515d2bb022b40e52a0e177bc6ae1f64168eb75b398a7",
+          "sha256": "65df1b9ae8eca98295ae2b65c3163c0330e4cc53e0acb246ef8c553f9d6755ed",
           "bytes": 3951
         }
       ]
@@ -338,7 +338,7 @@
         },
         {
           "path": "prices/600570.SS.2026.csv",
-          "sha256": "9aca7798f8067cc9859e1ac6f928dfb0b6ee7fae364d19c2e4ed5611903a0717",
+          "sha256": "7af01d7079f04bfe766569f1671addfb69e5a512ce710e4ce327f859823ebcb4",
           "bytes": 3686
         }
       ]
@@ -358,7 +358,7 @@
         },
         {
           "path": "prices/600660.SS.2026.csv",
-          "sha256": "8f02137da73fc39c218126233b041ad19ddca9696d694b5f74f49a63d9ed27e0",
+          "sha256": "30caa34a822b472fd3e6014f92a1e948d09fe1cf2b499c17e98a71def4b5c22e",
           "bytes": 3661
         }
       ]
@@ -378,7 +378,7 @@
         },
         {
           "path": "prices/600741.SS.2026.csv",
-          "sha256": "d0286c8352e4f845c7b5c43ae12e90e0fbe77b6988b25a12425c95ad49816ffd",
+          "sha256": "798acc900cf8e6e6261164960b0ed7fb565c2c67f8d389fec78d9c3f4d3e9741",
           "bytes": 3675
         }
       ]
@@ -398,7 +398,7 @@
         },
         {
           "path": "prices/600887.SS.2026.csv",
-          "sha256": "679f81bce201e68e4febe312def8b19c92a0302240783c67c6d156cfc8546d58",
+          "sha256": "dfb309e9ef552763504629f770d79f8ddcf5c78d5193f372e748d53d70f61f27",
           "bytes": 3670
         }
       ]
@@ -418,8 +418,8 @@
         },
         {
           "path": "prices/AAPL.2026.csv",
-          "sha256": "0d7da8081ee216c1555b8ed41a452b727a42a28d9ab263229986a99d1da89246",
-          "bytes": 4069
+          "sha256": "0071495bb104dc38213a51a2f258e9579a1eff771ecb942a8ab5a270b55b3754",
+          "bytes": 4087
         }
       ]
     },
@@ -438,8 +438,8 @@
         },
         {
           "path": "prices/AMZN.2026.csv",
-          "sha256": "0a68f85fc23f05e9201b9f25b6ebc81ea53d3f7cbe83d34b1071c5474531b6f2",
-          "bytes": 4059
+          "sha256": "b64e0ddbf1e47bb50dcbbb947fc6c79b2ac5f19e2790a164e006586682daf367",
+          "bytes": 4077
         }
       ]
     },
@@ -458,8 +458,8 @@
         },
         {
           "path": "prices/GOOGL.2026.csv",
-          "sha256": "b0bba8af4637f907b47b30f8be3c42db14c12d32b464aec06c5bf9ac592cb472",
-          "bytes": 4056
+          "sha256": "d35c43621130c11b348ef751de4cabffddcb96fa18c92ee2210f2c42f87dfb93",
+          "bytes": 4074
         }
       ]
     },
@@ -478,8 +478,8 @@
         },
         {
           "path": "prices/META.2026.csv",
-          "sha256": "79dfdc4c90bd8cf339412f828fe6835ac58072f925a0900524c78e032c73b279",
-          "bytes": 4069
+          "sha256": "3b5d8d316b9fba1c5125ce4794e3492c7cc542e631922f403889db08b483a591",
+          "bytes": 4087
         }
       ]
     },
@@ -498,8 +498,8 @@
         },
         {
           "path": "prices/MSFT.2026.csv",
-          "sha256": "9eb6924113914ba4836005c849a32e7c43f8d08b1fabd52839cd9427cc8c532c",
-          "bytes": 4064
+          "sha256": "45d7c86cc127b5b7c80d1600a3b5294750edac48901f512d503da055b0fbd290",
+          "bytes": 4082
         }
       ]
     },
@@ -518,8 +518,8 @@
         },
         {
           "path": "prices/NVDA.2026.csv",
-          "sha256": "c347a394ce368365c0c0aba2006283dc18ec0219286065833b8ce6d63204ef01",
-          "bytes": 4069
+          "sha256": "33487eb3185c9f92df5d4da16d1ecc8676e9f11f6b1587c5f64e203e4baf2431",
+          "bytes": 4087
         }
       ]
     },
@@ -538,8 +538,8 @@
         },
         {
           "path": "prices/TSLA.2026.csv",
-          "sha256": "90e2d88bf5c8e3fff80059d336b6a9fec474c734a4d64234a72035a78bab87c8",
-          "bytes": 4061
+          "sha256": "7ba6dcf8b3a2ed2a42ca116c66b887e48698f992571b2fa748a29004e93554a1",
+          "bytes": 4076
         }
       ]
     }
